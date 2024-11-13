@@ -17,11 +17,11 @@ export default function Hero() {
             />
         </div>
         <div className="hero-text">
-          <h1 className="hero-heading">Hello, I'm <span>Amna</span></h1>
+          <h1 className="hero-heading">Hello, I&apos;m <span>Amna</span></h1>
           <h2 className="hero-subheading">Frontend Developer | JavaScript Enthusiast</h2>
           <p className="hero-paragraph">
-            I'm passionate about creating interactive and responsive web applications. 
-            Let's build something amazing together!
+            I&apos;m passionate about creating interactive and responsive web applications. 
+            Let&apos;s build something amazing together!
           </p>
           <div className="hero-icons">
             <Link href="/" target="_blank" rel="noopener noreferrer">

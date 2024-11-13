@@ -20,8 +20,8 @@ export default function Navbar() {
         <div className={`navbar-links ${menuOpen ? 'active' : ''}`}>
           <ul>
             <li><Link href="/">Home</Link></li>
-            <li><Link href="/about">About</Link></li>
-            <li><Link href="/contact">Contact</Link></li>
+            <li><Link href="/">About</Link></li>
+            <li><Link href="/">Contact</Link></li>
           </ul>
         </div>
         <div className="hamburger" onClick={toggleMenu}>
